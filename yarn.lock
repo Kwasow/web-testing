@@ -5350,9 +5350,9 @@ react-native-gradle-plugin@^0.0.6:
   resolved "https://registry.yarnpkg.com/react-native-gradle-plugin/-/react-native-gradle-plugin-0.0.6.tgz#b61a9234ad2f61430937911003cddd7e15c72b45"
   integrity sha512-eIlgtsmDp1jLC24dRn43hB3kEcZVqx6DUQbR0N1ABXGnMEafm9I3V3dUUeD1vh+Dy5WqijSoEwLNUPLgu5zDMg==
 
-"react-native-reanimated@https://github.com/software-mansion/react-native-reanimated":
+"react-native-reanimated@https://github.com/software-mansion/react-native-reanimated#@kwasow/bob_builder":
   version "3.0.0-rc.0"
-  resolved "https://github.com/software-mansion/react-native-reanimated#3fe8b35b05e82b2f2aefda1fb97799cf81e4b7bb"
+  resolved "https://github.com/software-mansion/react-native-reanimated#a20ab464bbbb682b716e22f01a8cea4a3a5b0ca1"
   dependencies:
     "@babel/plugin-proposal-export-namespace-from" "^7.17.12"
     "@babel/plugin-transform-object-assign" "^7.16.7"
