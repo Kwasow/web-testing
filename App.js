@@ -1,14 +1,12 @@
 import Animated, {
   useSharedValue,
   useAnimatedStyle,
-  withTiming, TimingAnimation
+  withTiming
 } from 'react-native-reanimated';
 import React from 'react';
 import {View, Button} from 'react-native';
 
 export default function App() {
-  const test = new TimingAnimation;
-
   const offset = useSharedValue(0);
   const animatedStyle = useAnimatedStyle(() => {
     'worklet';
